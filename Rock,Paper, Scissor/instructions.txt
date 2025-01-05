@@ -1,3 +1,40 @@
-I am gona to write a Rock, paper, scissor game
+1. Starting the Game:
+    • When prompted, type "yes" to start the game.
+    • If you type "no" or any other input, the game will exit.
 
-yes
+2. Gameplay:
+    • The game will ask you to enter one of the following options:
+        • Rock
+        • Paper
+        • Scissor
+        • q (to quit the game)
+    • Type your choice and press Enter.
+3. Opponent's Choice:
+    • The computer will randomly select "Rock," "Paper," or "Scissor."
+    • The result of each round will be displayed based on the following rules:
+    • Rock vs. Scissor: Rock wins.
+    • Paper vs. Rock: Paper wins.
+    • Scissor vs. Paper: Scissor wins.
+    • If both players choose the same item, it’s a tie.
+
+4. Scoring:
+    • Each round, the scores will be updated and displayed:
+    • Opponent's Score: Shows the computer's score.
+    • Your Score: Shows your score.
+
+5. Quitting the Game:
+    • To quit, type "q" when prompted for your input.
+    • The final scores will be displayed, and a message based on the result will appear:
+    • If the opponent’s score is higher, it will display a playful message.
+    • If it’s a tie, you will be encouraged to keep playing.
+    • If your score is higher, you’ll be congratulated.
+
+6. Restarting the Game:
+    • If it's a tie or you win, you can continue playing. The scores will reset after the game ends and you choose to start a new game.
+    • 69Enjoy playing and good luck!
+
+
+
+
+
+
