@@ -1,0 +1,31 @@
+1. Starting the Game:
+    When prompted, type "yes" to start the game.
+    If you do not want to play, type "no" or any other input to exit.
+
+2. Objective:
+    Your goal is to guess a randomly selected number between 1 and 100.
+
+3. Gameplay:
+    You will be asked to guess a number within the specified range.
+    Enter your guess and press Enter.
+
+4. Valid Inputs:
+    Numbers Only: Enter a valid number between 1 and 100.
+    If you enter a non-numeric value or a number outside the range, you will be asked to try again.
+
+5. Feedback:
+    After each guess, you will receive feedback:
+    Correct Guess: You will be informed how many attempts it took to guess the number correctly.
+    Too Low: If your guess is below the correct number, you will be prompted to guess again.
+    Too High: If your guess is above the correct number, you will be prompted to guess again.
+
+6. Winning and Replay:
+    Upon guessing the correct number, you will be congratulated and informed of your total number of guesses.
+    You will then be asked if you want to play again.
+    Type "yes" to start a new game.
+    Type "no" or any other input to exit the game.
+
+7. Exiting the Game:
+    If you choose not to play again, the game will thank you for playing and exit.
+    
+Enjoy the challenge and good luck guessing the correct number!

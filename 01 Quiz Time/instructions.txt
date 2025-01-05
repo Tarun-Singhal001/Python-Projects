@@ -1,0 +1,17 @@
+Welcome to the Quiz Time game! Here are the rules and guidelines for playing:
+
+1. Starting the Game:
+    To begin, type "YES" to proceed.
+
+2. Gameplay:
+    A series of questions will be displayed on the screen.
+    Answer each question carefully.
+
+3. Ending the Game:
+    The game ends immediately if you answer any question incorrectly.
+
+4. Scoring:
+    Your total score will be displayed at the end of the game.
+
+Enjoy the challenge and do your best to achieve a high score!
+
