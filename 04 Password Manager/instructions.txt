@@ -1,0 +1,5 @@
+Going to start work on Password Manager programme
+
+In this code Programme i store passwords in a encrypted formet so anyone can not understand them 
+
+to decrypt these passwords an decryption key is required which you can store in a secure place
