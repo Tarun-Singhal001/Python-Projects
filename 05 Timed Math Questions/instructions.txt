@@ -1,0 +1,3 @@
+In this once the quiz it started timer will start and random generated math problems are appeared
+Purpose: is how much time you take to answer given questions
+condition: if user gives incorrect answer it well repeat again and again 
